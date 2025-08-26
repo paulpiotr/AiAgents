@@ -1,0 +1,6 @@
+[submodule "MazuryAgent"]
+	path = MazuryAgent
+	url = https://github.com/paulpiotr/MazuryAgent.git
+[submodule "SignalAgent"]
+	path = SignalAgent
+	url = https://github.com/paulpiotr/SignalAgent.git
